@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory home lab](https://github.com/joshmadakor1/)
+  - [Active Directory home lab](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
 
 
 <h2>Certifications:</h2>
