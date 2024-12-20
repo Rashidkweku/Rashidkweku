@@ -4,7 +4,7 @@
 
 
   - [Command Line Linux home lab](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
-
+- [Applying Filters to SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>Certifications:</h2>
 
