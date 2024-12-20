@@ -4,7 +4,7 @@
 
 
   
-  - [Filter in SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
+  - [Filters to SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>Certifications:</h2>
 
