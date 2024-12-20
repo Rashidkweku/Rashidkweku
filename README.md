@@ -4,19 +4,19 @@
 
 
   - [Command Line Linux home lab](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
-- [Applying Filters to SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
+  - [Filter in SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>Certifications:</h2>
 
 
-- [Google Cybersecurity](https://coursera.org/share/f3c1d6ffe954423a7b5b51f462dad9e8)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Google Cybersecurity](https://coursera.org/share/5450f907d617f4b26395f563f85ac1fd)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Google Cybersecurity](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/f3c1d6ffe954423a7b5b51f462dad9e8)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/5450f907d617f4b26395f563f85ac1fd)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
+- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
 
 <h2>Popular YouTube video:</h2>
 
