@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Command Line Linux home lab](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
+  
   - [Filter in SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>Certifications:</h2>
