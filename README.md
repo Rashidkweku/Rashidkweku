@@ -11,12 +11,6 @@
 
 - [Certificate](https://www.coursera.org/accomplishments?utm_medium=email&utm_source=other&utm_campaign=courseCompletion~h_qSTmUJEe21jBLFGcIQ1w)
 - [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Certificate](https://coursera.org/share/5450f907d617f4b26395f563f85ac1fd)
-- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
-- [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
 
 <h2>Popular YouTube video:</h2>
 
