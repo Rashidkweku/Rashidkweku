@@ -5,17 +5,17 @@
 
   
   - [Filters to SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
-
+  - [Risk Assessment](https://github.com/Rashidkweku/Risk-Assessment/tree/main/README.md)
 <h2>Certifications:</h2>
 
 
 - [Certificate](https://www.coursera.org/accomplishments?utm_medium=email&utm_source=other&utm_campaign=courseCompletion~h_qSTmUJEe21jBLFGcIQ1w)
 - [Certificate](https://coursera.org/share/ae907c924328493addebf3a510c6893c)
 
-<h2>Popular YouTube video:</h2>
 
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/@IDKofficialpage)
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
