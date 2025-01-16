@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rashid! <br/><a href="https://https://github.com/Rashidkweku"></a> <a href="https://https://www.linkedin.com/in/rashid-alhassan//">Cybersecurity Professional</a>
+<h1>Hi, I'm Rashid! <br/><a href="https://https://github.com/Rashidkweku"></a> <a href="https://https://https://www.linkedin.com/in/rashid-alhassan-20ab52220/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
