@@ -6,7 +6,8 @@
   
   - [Filters to SQL Queries](https://github.com/Rashidkweku/ActiveDirectoryLab/blob/main/README.md)
   - [Risk Assessment](https://github.com/Rashidkweku/Risk-Assessment/tree/main/README.md)
-  - [Encrypt and Decrypt](https://github.com/Rashidkweku/Decryption-and-Encryption/tree/main/README.md)
+  - [Encryption and Decryption](https://github.com/Rashidkweku/Decryption-and-Encryption/tree/main/README.md)
+   
 <h2>Certifications:</h2>
 
 
